@@ -60,4 +60,4 @@ Languages and Tools
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyash-das&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph"  />
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyash-das" alt="priyash-das" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyash-das&theme=ambient_gradient&no-frame=true&no-bg=true&margin-w=4" alt="priyash-das" /></a> </p>
