@@ -4,7 +4,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyash-Das&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="priyash-das" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyash-Das&theme=ambient_gradient&hide_border=false" height="150" alt="priyash-das" />
 </div>
 
