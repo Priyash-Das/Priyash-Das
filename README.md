@@ -72,4 +72,4 @@ Languages and Tools:
 
 <br><br>
 
-> "Feel free to explore my projects and get in touch! Whether you're interested in collaborating on an exciting new venture or just want to discuss tech and design, I'm always open to new ideas and opportunities. Let's connect and create something amazing together!"
+> Feel free to explore my projects and get in touch! Whether you're interested in collaborating on an exciting new venture or just want to discuss tech and design, I'm always open to new ideas and opportunities. Let's connect and create something amazing together!
