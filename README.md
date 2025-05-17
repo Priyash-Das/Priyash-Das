@@ -54,7 +54,6 @@ Languages and Tools:
 
 > Here are some of the technologies I frequently use:
 
-<br><br>
 ### <p align="center">F r o n t e n d &nbsp; T e c h n o l o g i e s , &nbsp; F r a m e w o r k s &nbsp; a n d &nbsp; L i b r a r i e s</p>
 
 <p align="center">
