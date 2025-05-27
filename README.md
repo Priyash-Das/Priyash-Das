@@ -27,7 +27,7 @@
 
 - ✔️ I’m currently learning Advanced Web development techniques, Enhancing my skills, Exploring new tools and technologies, modern frameworks and libraries.
 
-- ✔️ Ask me nothing.
+- ✔️ Ask me nothing. :stuck_out_tongue_closed_eyes:
 
 - ✔️ Fun fact I believe "Hello, World!" is the secret password to the universe.
 
