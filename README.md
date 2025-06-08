@@ -6,7 +6,7 @@
 <h1 align="center">Hi! , I'm Priyash Das</h1>
 <h6 align="justify">I am currently a student of Computer Science and Engineering with a keen interest in Web development, Software development, Cybersecurity and AI / ML. I enjoy crafting intuitive user interfaces, building robust software solutions and exploring the realms of artificial intelligence and machine learning. Driven by curiosity and a passion for technology, I am constantly learning and evolving, aiming to contribute innovative solutions to the tech community.</h6>
 
-> Visit My Portfolio: [| --> CLICK ME <-- |](https://priyash-das.github.io/Portfolio/)
+> ✨ Visit My Portfolio: [ | --> O <-- | ](https://priyash-das.github.io/Portfolio/)
 
 <br><br>
 
