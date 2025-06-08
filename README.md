@@ -18,7 +18,7 @@
 <img width="100%" height="2px" src="https://media.tenor.com/-sauCodHWLIAAAAM/rainbow-border.gif">
 
 # 💥 About Me:
-> Know more about me:
+> Know more about me: [|| ---> PORTFOLIO <--- ||](https://priyash-das.github.io/Portfolio/)
 <br>
 
 - ✔️ I’m currently a student of Computer Science and Engineering.
