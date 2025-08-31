@@ -4,7 +4,10 @@
 <img width="100%" height="2px" src="https://media.tenor.com/-sauCodHWLIAAAAM/rainbow-border.gif">
 <br><br><br>
 <h1 align="center">Hi! , I'm Priyash Das</h1>
-<h6 align="justify">I am currently a student of Computer Science and Engineering with a keen interest in Web development, Software development, Cybersecurity and AI / ML. I enjoy crafting intuitive user interfaces, building robust software solutions and exploring the realms of artificial intelligence and machine learning. Driven by curiosity and a passion for technology, I am constantly learning and evolving, aiming to contribute innovative solutions to the tech community.</h6>
+<h6 align="justify">A passionate AI & Robotics Engineer (in progress), MERN Full-Stack Developer, and Generative AI Enthusiast. Currently, I'm pursuing my M.Tech in Intelligent Automation & Robotics at Jadavpur University after completing my B.Tech in Computer Science & Engineering.</h6>
+
+<h6 align="justify">Domains of Focus: Full-Stack Web Development, Generative AI & Prompt Engineering, Automation & Robotics, AI/ML, Cybersecurity.</h6>
+<br>
 
 > ✨ Visit My Portfolio: [ | --> O <-- | ](https://priyash-das.github.io/Portfolio/)
 
@@ -23,11 +26,9 @@
 > Know more about me:
 <br>
 
-- ✔️ I’m currently a student of Computer Science and Engineering.
+- ✔️ I’m currently a student :)
 
-- ✔️ I’m looking to collaborate on open-source projects related to web development and UI/UX design.
-
-- ✔️ I’m currently learning Advanced Web development techniques, Enhancing my skills, Exploring new tools and technologies, modern frameworks and libraries.
+- ✔️ I’m looking to collaborate on open-source projects related to Full-Stack Development / AI & Robotics.
 
 - ✔️ Ask me nothing. :stuck_out_tongue_closed_eyes:
 
